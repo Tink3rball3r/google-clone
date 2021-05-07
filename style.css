@@ -1,0 +1,22 @@
+:root {
+	--main-bg: #fff;
+	--main-text: rgba(0, 0, 0, 0.87);
+	--footer-bg: #f2f2f2;
+	--footer-text: #70757a;
+	/*    button styles     */
+	--button-text: #3c4043;
+	--button-bg: #f8f9fa;
+	--button-border: #f8f9fa;
+	--button-font: arial, sans-serif;
+	--button-radius: 4px;
+	/*   button hover state  */
+	--button-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+	--button-border-hover: 1px solid #dadce0;
+	--button-text-hover: #202124;
+	/*   search bar styles  */
+	--search-border: 1px solid #dfe1e5;
+	--search-radius: 24px;
+	/*   search bar hover   */
+	--search-shadow-hover: 0 1px 6px rgba(32, 33, 36, 0.28);
+	--search-border-hover: rgba(223, 225, 229, 0);
+}
